@@ -13,7 +13,9 @@ nbproject/
 .~lock.*
 .idea
 composer.lock
+composer.json
 vendor/bin
+zftool.phar
 
 #################
 ## Eclipse
